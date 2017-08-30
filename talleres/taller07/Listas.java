@@ -1,4 +1,7 @@
-
+/*
+* Solucion al taller 7 de estructuras de datos y algoritmos
+* Realizado por: Luisa Maria Vasquez
+*/
 public class Listas {
 
     Nodo inicio;
