@@ -1,0 +1,24 @@
+digraph finite_state_machine {
+	rankdir=TB;
+	size="5,8"
+	node [shape = doublecircle]; Wilkenson ;
+	node [shape = circle];
+	Wilkenson -> Sufranio ;
+	Wilkenson -> Joaquina ;
+        Joaquina  -> Eustaquio;
+	Joaquina  -> Eustaquia;
+        Sufranio  -> Piolin;
+        Sufranio  -> Piolina;
+        null0 [shape=point];
+        Eustaquia  -> null0 ;
+        Eustaquia  -> Florinda;
+        Eustaquio -> Jovin;
+        null1 [shape=point];
+        Eustaquio  -> null1 ;
+        null2 [shape=point];
+        Piolina -> null2;
+        Piolina -> Wilberta;
+        Piolin -> Usnavy;
+        null3 [shape=point];
+        Piolin->null3;
+}
