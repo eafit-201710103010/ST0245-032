@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * Solucion al laboratoio 5 , esta clase incluye la implementacion de BinaryTree, el metodo imprimir inorden 
+ * Solucion al laboratorio 5 , esta clase incluye la implementacion de BinaryTree, el metodo imprimir inorden 
  * y el metodo que genera el codigo para GraphViz
  * 
  * @author Luisa Maria Vasquez, Sebastian Giraldo y Santiago Escobar
