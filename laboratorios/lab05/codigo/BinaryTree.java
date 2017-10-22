@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * Solucion al taller 10 , esta case incluye la implementacion de BinaryTree, el metodo imprimir inorden 
+ * Solucion al Lab 5 , esta case incluye la implementacion de BinaryTree, el metodo imprimir inorden 
  * y el metodo que genera el codigo para GraphViz
  * 
  * @author Luisa Maria Vasquez
