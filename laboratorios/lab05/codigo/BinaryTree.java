@@ -3,7 +3,7 @@ import java.util.*;
  * Solucion al Lab 5 , esta case incluye la implementacion de BinaryTree, el metodo imprimir inorden 
  * y el metodo que genera el codigo para GraphViz
  * 
- * @author Luisa Maria Vasquez
+ * @author Luisa Maria Vasquez, Sebastian Giraldo y Santiago Escobar
  * @version 03/10/2017
  */
 public class BinaryTree
